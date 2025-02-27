@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/GUICHE.uf2"
+elf = "build/GUICHE.elf"
